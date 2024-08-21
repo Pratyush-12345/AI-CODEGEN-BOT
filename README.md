@@ -2,7 +2,9 @@
 
 CodeGen is a cutting-edge web application that harnesses the power of artificial intelligence to generate code in any programming language. With an intuitive interface and powerful backend, CodeGen streamlines the coding process for developers of all skill levels.
 
-![alt text](<Screenshot 2024-08-21 165238.png>)
+![Screenshot 2024-08-21 165238](https://github.com/user-attachments/assets/2be206b7-86c1-4adb-9b7c-d2ffd7e27709)
+
+
 
 ## Features
 
@@ -12,7 +14,8 @@ CodeGen is a cutting-edge web application that harnesses the power of artificial
 - **Responsive Design**: Seamless experience across desktop and mobile devices.
 - **Interactive UI**: Engaging animations and a user-friendly interface for an enhanced user experience.
 
-![alt text](<Screenshot 2024-08-21 165456.png>)
+![Screenshot 2024-08-21 165456](https://github.com/user-attachments/assets/32c0ee8a-028d-4d9b-8cd2-815b9d99a24b)
+
 
 ## Getting Started
 
@@ -53,7 +56,8 @@ GOOGLE_API_KEY=your_gemini_api_key
 - Gemini API for code generation
 - MongoDB Atlas for database hosting
 
-![alt text](<Screenshot 2024-08-21 165307-1.png>)
+![Screenshot 2024-08-21 165307](https://github.com/user-attachments/assets/cc88f006-69b9-40ec-8252-ab9db6da2d4a)
+
 
 ## License
 
